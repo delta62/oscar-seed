@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "Best Picture": [
+      "The Big Short",
+      "Bridge of Spies",
+      "Brooklyn",
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant",
+      "Room",
+      "Spotlight"
+    ],
+    "Actor In A Leading Role": [
+      "Bryan Cranston, Trumbo",
+      "Matt Damon, The Martian",
+      "Leonardo DiCaprio, The Revenant",
+      "Michael Fassbender, Steve Jobs",
+      "Eddie Redmayne, The Danish Girl"
+    ],
+    "Actress In A Leading Role": [
+      "Cate Blanchett, Carol",
+      "Brie Larson, Room",
+      "Jennifer Lawrence, Joy",
+      "Charlotte Rampling, 45 Years",
+      "Saoirse Ronan, Brooklyn"
+    ],
+    "Actor In A Supporting Role": [
+      "Christian Bale, The Big Short",
+      "Tom Hardy, The Revenant",
+      "Mark Ruffalo, Spotlight",
+      "Mark Rylance, Bridge of Spies",
+      "Sylvester Stallone, Creed"
+    ],
+    "Actress In A Supporting Role": [
+      "Jennifer Jason Leigh, The Hateful Eight",
+      "Rooney Mara, Carol",
+      "Rachel McAdams, Spotlight",
+      "Alicia Vikander, The Danish Girl",
+      "Kate Winslet, Steve Jobs"
+    ],
+    "Animated Feature Film": [
+      "Anomalisa",
+      "Boy and the World",
+      "Inside Out",
+      "Shaun the Sheep Movie",
+      "When Marnie Was There"
+    ],
+    "Cinematography": [
+      "Carol",
+      "The Hateful Eight",
+      "Mad Max: Fury Road",
+      "The Revenant",
+      "Sicario"
+    ],
+    "Costume Design": [
+      "Carol",
+      "Cinderella",
+      "The Danish Girl",
+      "Mad Max: Fury Road",
+      "The Revenant"
+    ],
+    "Directing": [
+      "The Big Short",
+      "Mad Max: Fury Road",
+      "The Revenant",
+      "Room",
+      "Spotlight"
+    ],
+    "Documentary (Feature)": [
+      "Amy",
+      "Cartel Land",
+      "The Look of Silence",
+      "What Happened, Miss Simone?",
+      "Winter on Fire: Ukraine’s Fight for Freedom"
+    ],
+    "Documentary (Short Subject)": [
+      "Body Team 12",
+      "Chau, beyond the Lines",
+      "Claude Lanzmann: Spectres of the Shoah",
+      "A Girl in the River: The Price of Forgiveness",
+      "Last Day of Freedom"
+    ],
+    "Film Editing": [
+      "The Big Short",
+      "Mad Max: Fury Road",
+      "The Revenant",
+      "Spotlight",
+      "Star Wars: The Force Awakens"
+    ],
+    "Foreign Language Film": [
+      "Embrace of the Serpent",
+      "Mustang",
+      "Son of Saul",
+      "Theeb",
+      "A War"
+    ],
+    "Makeup And Hairstyling": [
+      "Mad Max: Fury Road",
+      "The 100-Year-Old Man Who Climbed out the Window and Disappeared",
+      "The Revenant"
+    ],
+    "Music (Original Score)": [
+      "Bridge of Spies",
+      "Carol",
+      "The Hateful Eight",
+      "Sicario",
+      "Star Wars: The Force Awakens"
+    ],
+    "Music (Original Song)": [
+      "“Earned It,” Fifty Shades of Grey",
+      "“Manta Ray,” Racing Extinction",
+      "“Simple Song #3,” Youth",
+      "“Til It Happens To You,” The Hunting Ground",
+      "“Writing’s On The Wall,” Spectre"
+    ],
+    "Production Design": [
+      "Bridge of Spies",
+      "The Danish Girl",
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant"
+    ],
+    "Short Film (Animated)": [
+      "Bear Story",
+      "Prologue",
+      "Sanjay’s Super Team",
+      "We Can’t Live without Cosmos",
+      "World of Tomorrow"
+    ],
+    "Short Film (Live Action)": [
+      "Ave Maria",
+      "Day One",
+      "Everything Will Be Okay (Alles Wird Gut)",
+      "Shok",
+      "Stutterer"
+    ],
+    "Sound Editing": [
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant",
+      "Sicario",
+      "Star Wars: The Force Awakens"
+    ],
+    "Sound Mixing": [
+      "Bridge of Spies",
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant",
+      "Star Wars: The Force Awakens"
+    ],
+    "Visual Effects": [
+      "Ex Machina",
+      "Mad Max: Fury Road",
+      "The Martian",
+      "The Revenant",
+      "Star Wars: The Force Awakens"
+    ],
+    "Writing (Adapted Screenplay)": [
+      "The Big Short",
+      "Brooklyn",
+      "Carol",
+      "The Martian",
+      "Room"
+    ],
+    "Writing (Original Screenplay)": [
+      "Bridge of Spies",
+      "Ex Machina",
+      "Inside Out",
+      "Spotlight",
+      "Straight Outta Compton"
+    ]
+  }
+}

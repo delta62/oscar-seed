@@ -1,0 +1,17 @@
+{
+  "name": "oscar-seed",
+  "version": "0.0.1",
+  "description": "Seeds data into an Oscar trivia game database",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": "git@github.com:delta62/oscar-seed.git",
+  "author": "Sam Noedel <sam.noedel@gmail.com>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "config": "^1.24.0",
+    "mongodb": "^2.2.16",
+    "promise-do": "^0.0.2"
+  }
+}
