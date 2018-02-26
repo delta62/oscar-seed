@@ -1,6 +1,6 @@
 {
   "name": "oscar-seed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Seeds data into an Oscar trivia game database",
   "scripts": {
     "start": "node index.js"
