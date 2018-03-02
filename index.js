@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb');
 const config = require('config');
-const nominations = require('./data/2017.json');
+const nominations = require('./data/2018.json');
 require('promise-do');
 
 function getConnectionString() {
