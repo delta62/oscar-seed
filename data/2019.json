@@ -1,0 +1,173 @@
+{
+  "categories": {
+    "Best Picture": [
+      "Black Panther",
+      "BlacKkKlansman",
+      "Bohemian Rhapsody",
+      "The Favourite",
+      "Green Book",
+      "Roma",
+      "A Star Is Born",
+      "Vice"
+    ],
+    "Actor In A Leading Role": [
+      "Christian Bale, Vice",
+      "Bradley Cooper, A Star Is Born",
+      "Willem Dafoe, At Eternity's Gate",
+      "Rami Malek, Bohemian Rhapsody",
+      "Viggo Mortensen, Green Book "
+    ],
+    "Actress In A Leading Role": [
+      "Yalitza Aparicio, Roma",
+      "Glenn Close, The Wife",
+      "Olivia Colman, The Favourite",
+      "Lady Gaga, A Star Is Born",
+      "Melissa McCarthy, Can You Ever Forgive Me? "
+    ],
+    "Actor In A Supporting Role": [
+      "Mahershala Ali, Green Book",
+      "Adam Driver, BlacKkKlansman",
+      "Sam Elliott, A Star Is Born",
+      "Richard E. Grant, Can You Ever Forgive Me?",
+      "Sam Rockwell, Vice "
+    ],
+    "Actress In A Supporting Role": [
+      "Amy Adams, Vice",
+      "Marina de Tavira, Roma",
+      "Regina King, If Beale Street Could Talk",
+      "Emma Stone, The Favourite",
+      "Rachel Weisz, The Favourite "
+    ],
+    "Animated Feature Film": [
+      "Incredibles 2",
+      "Isle of Dogs",
+      "Mirai",
+      "Ralph Breaks the Internet",
+      "Spider-Man: Into the Spider-Verse"
+    ],
+    "Cinematography": [
+      "Cold War",
+      "The Favourite",
+      "Never Look Away",
+      "Roma",
+      "A Star Is Born"
+    ],
+    "Costume Design": [
+      "The Ballad of Buster Scruggs",
+      "Black Panther",
+      "The Favourite",
+      "Mary Poppins Returns",
+      "Mary Queen of Scots"
+    ],
+    "Directing": [
+      "BlacKkKlansman",
+      "Cold War",
+      "The Favourite",
+      "Roma",
+      "Vice"
+    ],
+    "Documentary (Feature)": [
+      "Free Solo",
+      "Hale County This Morning, This Evening",
+      "Minding the Gap",
+      "Of Fathers and Sons",
+      "RBG"
+    ],
+    "Documentary (Short Subject)": [
+      "Black Sheep",
+      "End Game",
+      "Lifeboat",
+      "A Night at The Garden",
+      "Period. End of Sentence."
+    ],
+    "Film Editing": [
+      "BlacKkKlansman",
+      "Bohemian Rhapsody",
+      "The Favourite",
+      "Green Book",
+      "Vice"
+    ],
+    "Foreign Language Film": [
+      "Capernaum",
+      "Cold War",
+      "Never Look Away",
+      "Roma",
+      "Shoplifters"
+    ],
+    "Makeup And Hairstyling": [
+      "Border",
+      "Mary Queen of Scots",
+      "Vice"
+    ],
+    "Music (Original Score)": [
+      "Black Panther",
+      "BlacKkKlansman",
+      "If Beale Street Could Talk",
+      "Isle of Dogs",
+      "Mary Poppins Returns"
+    ],
+    "Music (Original Song)": [
+      "All The Stars, Black Panther",
+      "I'll Fight, RBG",
+      "The Place Where Lost Things Go, Mary Poppins Returns",
+      "Shallow, A Star Is Born",
+      "When A Cowboy Trades His Spurs For Wings, The Ballad of Buster Scruggs"
+    ],
+    "Production Design": [
+      "Black Panther",
+      "The Favourite",
+      "First Man",
+      "Mary Poppins Returns",
+      "Roma"
+    ],
+    "Short Film (Animated)": [
+      "Animal Behaviour",
+      "Bao",
+      "Late Afternoon",
+      "One Small Step",
+      "Weekends"
+    ],
+    "Short Film (Live Action)": [
+      "Detainment",
+      "Fauve",
+      "Marguerite",
+      "Mother",
+      "Skin"
+    ],
+    "Sound Editing": [
+      "Black Panther",
+      "Bohemian Rhapsody",
+      "First Man",
+      "A Quiet Place",
+      "Roma"
+    ],
+    "Sound Mixing": [
+      "Black Panther",
+      "Bohemian Rhapsody",
+      "First Man",
+      "Roma",
+      "A Star Is Born"
+    ],
+    "Visual Effects": [
+      "Avengers: Infinity War",
+      "Christopher Robin",
+      "First Man",
+      "Ready Player One",
+      "Solo: A Star Wars Story"
+    ],
+    "Writing (Adapted Screenplay)": [
+      "The Ballad of Buster Scruggs",
+      "BlacKkKlansman",
+      "Can You Ever Forgive Me?",
+      "If Beale Street Could Talk",
+      "A Star Is Born"
+    ],
+    "Writing (Original Screenplay)": [
+      "The Favourite",
+      "First Reformed",
+      "Green Book",
+      "Roma",
+      "Vice"
+    ]
+  }
+}
