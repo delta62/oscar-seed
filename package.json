@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "Seeds data into an Oscar trivia game database",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo 'no tests'"
   },
   "main": "index.js",
   "repository": "git@github.com:delta62/oscar-seed.git",
